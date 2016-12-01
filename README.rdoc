@@ -1,1 +1,5 @@
 Simple todolist application, initially done for the cousera "Rails with ActiveRecord and ActionPack" course. Much improved since the test though.
+
+Login at: https://louis-wonderful-todolist.herokuapp.com/
+Username: louis
+Password: password
